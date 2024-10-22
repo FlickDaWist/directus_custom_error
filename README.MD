@@ -7,6 +7,13 @@ The extension available in flows operator and expecting inputs as follow.
 - Messagae : your desired error messages
 - Status Code : your desired HTTP Status code
 
+## Install
+Package on npm :
+```
+npm i @flickdawist/custom_error_handler
+```
+More on how to install Directus extension : https://docs.directus.io/extensions/installing-extensions.html
+
 ## Previews
 
 Directus Flow Operations Name : Throw Custom Error
