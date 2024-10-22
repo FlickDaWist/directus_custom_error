@@ -2,7 +2,7 @@
   "name": "@flickdawist/custom_error_handler",
   "description": "Custom Directus Flows error handler extension",
   "icon": "assignment_late",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "directus",
     "directus-extension",
