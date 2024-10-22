@@ -6,3 +6,16 @@ The extension available in flows operator and expecting inputs as follow.
 - Error Code : refer to this value https://docs.directus.io/reference/introduction.html#error-codes, example : 'FORBIDDEN'
 - Messagae : your desired error messages
 - Status Code : your desired HTTP Status code
+
+## Previews
+
+Directus Flow Operations Name : Throw Custom Error
+![flow](https://raw.githubusercontent.com/FlickDaWist/directus_custom_error/refs/heads/main/screenshots/flow_operation.png)
+
+![flow](https://raw.githubusercontent.com/FlickDaWist/directus_custom_error/refs/heads/main/screenshots/flow.png)
+
+Result on api response
+![flow](https://raw.githubusercontent.com/FlickDaWist/directus_custom_error/refs/heads/main/screenshots/result_in_api_response.png)
+
+Result on Direcuts app popup message
+![flow](https://raw.githubusercontent.com/FlickDaWist/directus_custom_error/refs/heads/main/screenshots/result_in_app.png)
