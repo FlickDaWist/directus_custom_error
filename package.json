@@ -1,6 +1,6 @@
 {
-  "name": "custom_error_handler",
-  "description": "Custom error handler",
+  "name": "@flickdawist/custom_error_handler",
+  "description": "Custom Directus Flows error handler extension",
   "icon": "assignment_late",
   "version": "1.0.0",
   "keywords": [
@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "@directus/errors": "^1.0.0",
+    "@flickdawist/custom_error_handler": "file:",
     "custom_error_handler": "file:",
     "ext_flow_custom": "file:"
   }
