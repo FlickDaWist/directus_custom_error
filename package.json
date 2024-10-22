@@ -38,5 +38,9 @@
     "@flickdawist/custom_error_handler": "file:",
     "custom_error_handler": "file:",
     "ext_flow_custom": "file:"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlickDaWist/directus_flows_extension_custom_error.git"
   }
 }
