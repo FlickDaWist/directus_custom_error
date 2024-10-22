@@ -35,9 +35,7 @@
   },
   "dependencies": {
     "@directus/errors": "^1.0.0",
-    "@flickdawist/custom_error_handler": "file:",
-    "custom_error_handler": "file:",
-    "ext_flow_custom": "file:"
+    "@flickdawist/custom_error_handler": "file:"
   },
   "repository": {
     "type": "git",
